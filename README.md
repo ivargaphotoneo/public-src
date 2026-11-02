@@ -2,6 +2,8 @@
 
 A minimal C++ project that prints `Hello World!`.
 
+With some math!
+
 ## Requirements
 
 - C++17 compiler
